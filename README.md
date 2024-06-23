@@ -31,6 +31,10 @@ The Shopping Portal database consists of several tables:
 - `USER1`: Stores user information.
 - `WAREHOUSE`: Represents warehouses and their capacity.
 
+  
+  ![Image 11-12-2022 at 2 00 PM](https://github.com/hamzahzureigat/shopping-app--SQL-project-/assets/127392973/75302e8c-bcd4-4db3-a233-16131833eb39)
+
+
 ## Usage
 
 You can now use the Shopping Portal database to perform various queries and analyze the data. Refer to the table structures and relationships to understand the database schema and make use of the available data.
